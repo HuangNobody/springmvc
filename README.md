@@ -1,0 +1,2 @@
+# springmvc_02
+第一次使用IDEA自带的springmvc框架搭建一个非常简单的Demo
